@@ -7,7 +7,7 @@ import java.util.Stack;
 import java.util.Map;
 import java.io.*;
 import java.util.*;
-public class HW1
+public class PuzzleSolver
 {
   //the combination will create an down/up/right/left sequence
   static int move_x[]={1,-1,0,0};
